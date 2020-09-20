@@ -9,4 +9,4 @@ int main()
 	string test = "test Afsdfsafsadfasdfsadfasdfsdafsdf sdfasfdsafdsaf sdfasfsd";
 	hash<string> hash;
 	cout << hash(test) << "\n";
-}   
+}                 
